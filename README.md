@@ -1,1 +1,1 @@
-# Counter-Strike-1.6-With-Python
+# Counter-Strike-1.6-With-Pythonn
